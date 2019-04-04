@@ -26,3 +26,4 @@ ipython notebook
 ```
 
 Open `spam_classifiers.ipynb`, and step through the code for training and testing
+Tutorial on IPython notebook, http://cs231n.github.io/ipython-tutorial/
